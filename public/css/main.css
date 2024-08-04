@@ -1,0 +1,49 @@
+body {
+    background-color: #1a202c !important ; /* لون الخلفية الأساسي */
+    color: #edf2f7; /* لون النص الأساسي */
+}
+
+.navbar-dark {
+    background-color: #2d3748; /* لون خلفية شريط التنقل */
+}
+
+.card {
+    background-color: #2d3748; /* لون خلفية البطاقات */
+    border: none; /* إزالة الحواف */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* ظل البطاقات */
+}
+
+.card-title {
+    color: #f7fafc; /* لون عنوان البطاقة */
+}
+
+.card-text {
+    color: #cbd5e0; /* لون نص البطاقة */
+}
+
+.btn-dark {
+    background-color: #4a5568; /* لون زر الوضع الداكن */
+    color: #edf2f7; /* لون النص على الزر */
+    border: none; /* إزالة الحدود */
+}
+
+.btn-dark:hover {
+    background-color: #2d3748; /* لون زر الوضع الداكن عند التمرير */
+    color: #f7fafc; /* لون النص على الزر عند التمرير */
+}
+
+footer {
+    background-color: #2d3748; /* لون خلفية الفوتر */
+    color: #cbd5e0; /* لون النص في الفوتر */
+    padding: 20px 0;
+}
+
+footer a {
+    color: #f7fafc; /* لون الروابط في الفوتر */
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #edf2f7; /* لون الروابط عند التمرير */
+}
+
